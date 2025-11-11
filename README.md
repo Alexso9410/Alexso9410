@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="Imagenes/bannergithub.png" alt="Banner de GitHub" style="border-radius:10px;"/>
+<img src="imagenes/bannergithub.png" alt="Banner de GitHub" style="border-radius:10px;"/>
 
 </div>
 
