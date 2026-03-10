@@ -1,121 +1,145 @@
-<div align="center">
-
 # 🔐 Alexis Sosa
 
-### Técnico en Seguridad Ciudadana | Analista de Ciberseguridad Jr. CCST
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-sosa-52412623b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexso9410)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack%20The%20Box&logoColor=black)](https://www.hackthebox.com/)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-FF6B00?style=for-the-badge&logo=cyberdefenders&logoColor=white)](https://cyberdefenders.org/p/ales04)
-
-</div>
+### Técnico en Ciberseguridad | Seguridad & Operaciones de Infraestructura
+#### 🇦🇷 Argentina
 
 ---
 
-<div align="center">
-
-<img src="imagenes/bannergithub.png" alt="Banner de GitHub" style="border-radius:10px;"/>
-
-</div>
+![Banner](https://raw.githubusercontent.com/Alexso9410/Alexso9410/main/imagenes/bannerlinkgit.jpg)
 
 ---
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 Sobre mí
 
-```yaml
-Nombre: Alexis Sosa
-Rol: Técnico en Seguridad Ciudadana | Analista de Ciberseguridad Jr. CCST
-Ubicación: Argentina 🇦🇷
-Intereses: Consultor Cybersecurity | SOC Analysis | Threat Hunting
-```
+Soy Técnico Superior en Seguridad Informática, apasionado por la ciberseguridad con foco en la intersección entre **infraestructura, seguridad y automatización**. Me interesa entender los sistemas desde adentro: cómo se construyen, cómo se aseguran y cómo se defienden.
 
-Soy un **apasionado por la ciberseguridad** con enfoque en **análisis de malware** y **pruebas de penetración**. Actualmente me desempeño como **Voluntario en ArgOS** como Tool Tester, aplicando mis conocimientos en pruebas de seguridad y análisis de herramientas.
+Mantengo un homelab con servicios reales de seguridad corriendo en producción, y participo activamente en CTFs junto a un equipo de 5 integrantes en plataformas como **HackTheBox**, **TryHackMe** y **CyberDefenders**. Tengo un writeup oficial publicado y aceptado por CyberDefenders como guía de la plataforma.
 
-Mi formación incluye estudios en **Teclab Instituto Técnico Superior** y certificaciones de **Cisco Networking Academy (CCST)**. Mientras me divierto y mantengo mi aprendizaje activo en plataformas como **TryHackMe**, **Hack The Box** y **CyberDefender**, también administro un servidor con hipervisor **Proxmox** para desplegar múltiples máquinas virtuales y servicios de ciberseguridad (SIEM, IDS/IPS, firewalls y stacks de desarrollo), fortaleciendo conocimientos de infraestructura y operaciones de seguridad.
+orientación y aspiraciones:
 
----
-
-## 🏢 Experiencia
-
-- 🏢 **Fuerza de Seguridad Pública** | *Actualidad*
-- 🏢 **Voluntario - Tool Tester** en [ArgOS](https://argos.com.ar) | *Agosto 2025 - Actualidad*
-- 📚 **Estudiante** en **Teclab Instituto Técnico Superior** | *Enero 2024 - Actualidad*
-
-## 🎓 Certificaciones
-
-- ✅ Cuento con las certificaciones **Fortinet Trainer NSE 1, 2 y 3** 
-- ✅ Certificado**CCNA1 de Cisco Networking Academy**.
-- ✅ Certificado **CST Cybersecurity de CIsco Networking Academy**.
-
+- 🏗️ **Seguridad en infraestructura / SysAdmin / DevSecOps** — operar entornos reales, asegurarlos y automatizarlos
+- 🤖 **IA aplicada y agentes autónomos** — construcción de soluciones con LLMs, automatización inteligente e integración en flujos de seguridad
+- 🔍 **OSINT & Threat Intelligence** — inteligencia de fuentes abiertas, análisis de amenazas e investigación digital
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 🔒 Seguridad & Análisis
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00D4FF?style=flat-square&logo=wazuh&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-DC382D?style=flat-square&logo=zabbix&logoColor=white)
+### 🔒 Seguridad & Monitoreo
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-00D4FF?style=flat-square&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-FF6B00?style=flat-square)
+![Elastic SIEM](https://img.shields.io/badge/Elastic-SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-DC382D?style=flat-square&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-00A8E8?style=flat-square)
 ![Sysmon](https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-0078D4?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-FF6B6B?style=flat-square)
+
+### 🕵️ Auditoría Web & OSINT
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6B6B?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-FF6B6B?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-OSINT-AA0000?style=flat-square)
 
-### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Assembler](https://img.shields.io/badge/Assembler-In%20Progress-FF6B6B?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### ☁️ Virtualización & Contenedores
+### ☁️ Infraestructura & Virtualización
 ![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-Containers-00A8E8?style=flat-square)
+![OPNsense](https://img.shields.io/badge/OPNsense-Firewall-D94F00?style=flat-square)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-Network%20Simulation-00A8E8?style=flat-square)
 
-### 🔧 Herramientas & Plataformas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🤖 IA & Automatización
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-LLM%20Gateway-6C63FF?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 💻 Lenguajes & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-Firewall-EE3124?style=flat-square)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-Cryptography-721412?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
-![CVE](https://img.shields.io/badge/CVE-Database-FF6B6B?style=flat-square)
-![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📚 Plataformas de Aprendizaje
+## 🏗️ Homelab — Infraestructura Personal
 
-<div align="center">
+Mi laboratorio personal es donde más aprendo. Corro **Proxmox VE** como hypervisor sobre hardware dedicado, con una estación de trabajo separada para desarrollo, simulación de redes (GNS3) y virtualización adicional.
 
-| Plataforma | Estado | Tiempo Activo |
-|:----------:|:------:|:-------------:|
-| 🎯 **TryHackMe** | Activo | 1 año 9 meses |
-| 🎯 **Hack The Box** | Activo | 1 año 10 meses |
-| 🎯 **CyberDefender** | Activo | 11 meses |
-| 🎯 **Cisco Networking** | CCST Certificado | - |
+### Servicios en producción
 
-</div>
+| Servicio | Rol |
+|----------|-----|
+| **Wazuh** | SIEM — correlación de eventos y alertas de seguridad |
+| **Suricata** | IDS/IPS — detección de intrusiones en red |
+| **Elastic SIEM / ELK / Kibana** | Stack de análisis y visualización de logs |
+| **OPNsense** | Firewall perimetral, reglas, VLANs |
+| **Tailscale** | VPN mesh zero-config para acceso remoto seguro |
+| **Nginx** | Reverse proxy para servicios internos |
+| **Docker + LXC** | Contenedores para aislar y desplegar servicios |
+| **n8n** | Automatización de workflows e integraciones |
+| **OpenMediaVault + Nextcloud** | NAS casero, almacenamiento privado y backups |
+| **Immich** | Gestión de fotos autohospedada |
+| **AdGuard** | DNS filtering y bloqueo de rastreadores |
+| **PostgreSQL + pgvector** | Base de datos con soporte de embeddings vectoriales |
+
+### 🤖 Proyecto personal — Asistente IA multi-agente
+
+Construí un asistente personal sobre este homelab: un bot que se comunica a traves de red social con **arquitectura multi-agente** que integra LLMs locales y cloud mediante un gateway unificado (LiteLLM), memoria semántica con pgvector, orquestación de workflows via n8n, y skills especializadas de OSINT, monitoreo de infraestructura y automatización.
+
+```
+red social → Bot (Python / FastAPI)
+               ↓
+         LiteLLM Gateway → modelos cloud + modelos locales (Ollama)
+               ↓
+         Router de intents → skills especializadas
+               ↓
+         PostgreSQL + pgvector  ·  n8n  ·  APIs externas
+```
+
+La arquitectura está pensada para crecer: cada skill es un agente independiente que puede invocar herramientas externas, ejecutar escaneos de seguridad o conversar con contexto persistente.
+
+> Un proyecto donde convergen seguridad, infraestructura e IA aplicada.
 
 ---
 
-## 🎯 Especialidades
+## 🎯 Intereses & Dirección
 
-- 🔍 **SOC Analysis**: Detección de amenazas, análisis de logs, respuesta a incidentes
-- 🎯 **Penetration Testing**: Pruebas de penetración, análisis de vulnerabilidades
-- 🐳 **Infraestructura**: Proxmox, Docker, LXC, virtualización
-- 🦠 **Análisis de Malware**: Investigación y análisis de código malicioso
+```
+🏗️  Seguridad en Infraestructura    →   hardening, monitoreo, operaciones seguras
+⚙️  DevSecOps / SysAdmin            →   automatización, CI/CD seguro, gestión de servicios
+🤖  IA Aplicada & Agentes           →   LLMs, automatización inteligente, soluciones con IA
+🔍  OSINT & Threat Intelligence     →   inteligencia de fuentes abiertas, análisis de amenazas
+```
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🏆 CTF & Plataformas
 
-<div align="center">
+| Plataforma | Estado |
+|------------|--------|
+| 🎯 **HackTheBox** | Activo |
+| 🎯 **TryHackMe** | Activo |
+| 🎯 **CyberDefenders** | Activo — [perfil: ales04](https://cyberdefenders.org/p/ales04) |
+| 🎯 **The Hacker Labs** | Activo |
+
+### 📝 Writeup oficial publicado
+
+**Yara Trap Lab — CyberDefenders**
+Writeup elaborado junto al equipo CTF, aceptado y publicado como guía oficial de la plataforma. Cubre análisis de reglas YARA, detección de malware y forense aplicado.
+
+📖 [Leer en Medium →](https://medium.com/@IgnoranzaSolare) *(ene. 2026)*
+
+---
+
+## 💼 Experiencia
+
+- 🏛️ **Fuerza de Seguridad Pública** — actualidad
+- 🛡️ **Heimdall Agency** — Pasante en ciberseguridad
+- 🔧 **ArgOS** — Voluntario Tool Tester - actualidad
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexso9410&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)
 
@@ -123,94 +147,17 @@ Mi formación incluye estudios en **Teclab Instituto Técnico Superior** y certi
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Alexso9410&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
 
-</div>
-
----
-
-## 🏆 Proyectos Destacados
-
-### 🔐 Ciberseguridad
-- 📝 **Apuntes TryHackMe**: Documentación completa de módulos SOC y análisis de seguridad
-- 🔍 **Pentesting**: Write-ups de máquinas y challenges resueltos
-- 🏗️ **Lab Ataque y Defensa**: Despliegue completo de laboratorio de ciberseguridad (próximamente)
-
-### 🐍 Desarrollo
-- 🤖 **Telegram Bot**: Scanner de URLs con Python
-- 📥 **Course Downloader**: Herramienta para descarga de cursos
-
-### 🐳 Infraestructura
-- 🖥️ **Home Lab**: Servidor Proxmox con múltiples servicios
-- 🐳 **Docker Services**: Contenedores para aplicaciones y servicios
-- 🌐 **Network Simulation**: Topologías con GNS3
-
----
-
-## 📖 Cursos & Formación Continua
-
-- 📚 **Teclab Instituto Técnico Superior** - En curso
-- 🎯 **TryHackMe** - Path SOC Level 1
-- 🎯 **Hack The Box** - Máquinas y challenges
-- 🎯 **CyberDefender** - Formación continua | [Mi Perfil](https://cyberdefenders.org/p/ales04)
-
----
-
-## 🔥 Intereses
-
-- 🎯 **Threat Hunting**: Análisis y detección de amenazas
-- 🎯 **Penetration Testing**: Pruebas de seguridad, ethical hacking
-- 🐍 **Security Automation**: Scripts Python para automatización
-- 🐳 **DevSecOps**: Integración de seguridad en DevOps
-
----
-
-## 🚀 Aprendiendo
-
-- ☸️ **Kubernetes**: Orquestación de contenedores para infraestructura escalable
-- 🔧 **Assembler**: Debugger para análisis avanzado de malware
-
----
-
-## 📈 Actividad Reciente
-
-<div align="center">
-
-```text
-🛡️  Analizando malware y vulnerabilidades
-🔍  Practicando en TryHackMe y Hack The Box
-🐳  Configurando servicios en Proxmox
-🐍  Desarrollando scripts de automatización
-📚  Estudiando análisis SOC y threat hunting
-```
-
-</div>
-
 ---
 
 ## 💬 Contacto
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-sosa-52412623b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexso9410)
-
-</div>
-
----
-
-<div align="center">
-
-### 🛡️ "La seguridad no es un producto, es un proceso" 🛡️
-
-**Siempre abierto a colaboraciones y nuevas oportunidades**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Alexso9410.Alexso9410&left_color=00D4FF&right_color=7C3AED)
-
-</div>
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alesosasec@proton.me)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-FFB000?style=for-the-badge&logoColor=black)](https://cyberdefenders.org/p/ales04)
 
 ---
 
-<div align="center">
+### 🛡️ *"Build. Break. Defend. Automate."*
 
-**⭐ Si encuentras útil mi trabajo, considera darle una estrella ⭐**
-
-</div>
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Alexso9410.Alexso9410&left_color=00D4FF&right_color=7C3AED)](https://github.com/Alexso9410)
